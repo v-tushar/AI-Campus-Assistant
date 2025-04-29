@@ -1,0 +1,301 @@
+id,category,facility_id,facility_name,course_id,course_title,sentiment,text,rating,timestamp
+1,services,4,Tutoring Center,,,positive,Tutoring Center staff was so helpful when I needed assistance with registration.,5,2/5/2025
+2,services,3,Career Services,,,positive,The online appointment system for Career Services makes it easy to get help.,5,2/5/2025
+3,study_spaces,1,Main Library,,,positive,The WiFi at Main Library is super fast and reliable.,4,3/2/2025
+4,services,2,Counseling Center,,,positive,I highly recommend using Counseling Center if you're struggling with classes.,4,3/10/2025
+5,dining,6,Library Café,,,positive,Library Café has the best food on campus. Try the special on Wednesdays!,5,2/25/2025
+6,services,4,Tutoring Center,,,positive,The online appointment system for Tutoring Center makes it easy to get help.,4,1/30/2025
+7,study_spaces,6,Business School Lounge,,,positive,I love Business School Lounge! Always plenty of outlets and comfortable seating.,5,3/13/2025
+8,services,1,IT Help Desk,,,positive,The online appointment system for IT Help Desk makes it easy to get help.,5,3/4/2025
+9,courses,,,1040,BIO 133,neutral,Dr. Brown for BIO 133 is fair but not the most engaging.,3,2/18/2025
+10,recreation,3,Swimming Pool,,,positive,The staff at Swimming Pool is super helpful with showing how to use equipment.,5,1/24/2025
+11,services,4,Tutoring Center,,,positive,The advisors at Tutoring Center really care about helping students succeed.,4,2/20/2025
+12,services,4,Tutoring Center,,,neutral,The staff at Tutoring Center is knowledgeable but sometimes seems rushed.,3,2/28/2025
+13,courses,,,1080,BUS 270,negative,Dr. Johnson goes too fast in BUS 270. Hard to keep up.,2,2/14/2025
+14,study_spaces,1,Main Library,,,positive,Main Library has the perfect atmosphere for getting work done.,5,3/6/2025
+15,study_spaces,3,Student Union Lounge,,,positive,"I can always find a spot at Student Union Lounge, even during finals week.",4,2/19/2025
+16,courses,,,1069,PHYS 227,positive,PHYS 227 has really engaging discussions and useful assignments.,4,1/22/2025
+17,recreation,4,Student Union Game Room,,,positive,Student Union Game Room has awesome hours. I can go early before classes.,4,2/14/2025
+18,recreation,4,Student Union Game Room,,,positive,Student Union Game Room has great equipment and is usually not too crowded.,4,1/26/2025
+19,dining,4,Sushi Spot,,,positive,Sushi Spot has great options for vegetarians/vegans.,4,3/12/2025
+20,courses,,,1012,CS 384,positive,Highly recommend CS 384. The professor explains concepts really well.,5,1/30/2025
+21,study_spaces,7,Library Quiet Floor,,,positive,The WiFi at Library Quiet Floor is super fast and reliable.,5,2/10/2025
+22,courses,,,1110,ART 436,positive,Dr. Smith makes ART 436 so interesting. Best class I've taken.,4,2/10/2025
+23,recreation,3,Swimming Pool,,,neutral,Swimming Pool is decent but gets crowded after 4pm.,3,1/28/2025
+24,services,5,Health Clinic,,,neutral,My experience with Health Clinic was okay. They answered my questions but took a while.,3,3/10/2025
+25,recreation,3,Swimming Pool,,,negative,They need to extend the hours at Swimming Pool. It closes too early.,2,1/18/2025
+26,courses,,,1060,CHEM 410,neutral,CHEM 410 is okay. Dr. Martin is knowledgeable but lectures can be dry.,3,3/10/2025
+27,study_spaces,2,Science Study Room,,,negative,The chairs at Science Study Room are uncomfortable for long study sessions.,1,2/7/2025
+28,recreation,4,Student Union Game Room,,,negative,The equipment at Student Union Game Room is constantly broken or under maintenance.,1,3/8/2025
+29,recreation,3,Swimming Pool,,,positive,I love going to Swimming Pool after classes. Great way to destress.,5,1/26/2025
+30,recreation,4,Student Union Game Room,,,positive,I love going to Student Union Game Room after classes. Great way to destress.,4,2/20/2025
+31,recreation,2,Basketball Courts,,,positive,The fitness classes at Basketball Courts are amazing and free for students!,5,2/14/2025
+32,dining,5,Engineering Coffee Cart,,,positive,The staff at Engineering Coffee Cart is super friendly and the food is delicious.,5,1/21/2025
+33,study_spaces,2,Science Study Room,,,neutral,Science Study Room has decent lighting but could use more comfortable chairs.,3,3/3/2025
+34,study_spaces,8,Computer Lab,,,positive,Computer Lab is a great place to study. It's usually quiet and I can focus.,5,3/9/2025
+35,courses,,,1042,BIO 250,negative,The workload in BIO 250 is unreasonable for a 250-level course.,2,2/9/2025
+36,services,2,Counseling Center,,,neutral,Counseling Center services are useful but limited hours make it hard to access.,3,2/2/2025
+37,recreation,2,Basketball Courts,,,neutral,Basketball Courts is decent but gets crowded after 4pm.,3,2/22/2025
+38,recreation,3,Swimming Pool,,,negative,They need to extend the hours at Swimming Pool. It closes too early.,2,3/10/2025
+39,study_spaces,7,Library Quiet Floor,,,positive,The WiFi at Library Quiet Floor is super fast and reliable.,4,2/7/2025
+40,services,4,Tutoring Center,,,positive,The advisors at Tutoring Center really care about helping students succeed.,4,3/2/2025
+41,study_spaces,5,Arts Collaboration Space,,,neutral,Arts Collaboration Space has decent lighting but could use more comfortable chairs.,3,1/22/2025
+42,study_spaces,3,Student Union Lounge,,,negative,Student Union Lounge doesn't have enough outlets. Bring a backup battery!,2,2/15/2025
+43,recreation,2,Basketball Courts,,,positive,The staff at Basketball Courts is super helpful with showing how to use equipment.,5,2/23/2025
+44,courses,,,1011,CS 360,positive,Highly recommend CS 360. The professor explains concepts really well.,4,2/4/2025
+45,study_spaces,3,Student Union Lounge,,,positive,Student Union Lounge has the perfect atmosphere for getting work done.,4,1/31/2025
+46,study_spaces,5,Arts Collaboration Space,,,negative,Arts Collaboration Space is always too crowded. Impossible to find a seat after 11am.,2,1/14/2025
+47,study_spaces,7,Library Quiet Floor,,,positive,"I can always find a spot at Library Quiet Floor, even during finals week.",5,2/28/2025
+48,services,1,IT Help Desk,,,positive,IT Help Desk staff was so helpful when I needed assistance with registration.,5,2/9/2025
+49,recreation,3,Swimming Pool,,,positive,The fitness classes at Swimming Pool are amazing and free for students!,4,2/7/2025
+50,courses,,,1018,MATH 109,neutral,Dr. Thomas for MATH 109 is fair but not the most engaging.,3,1/14/2025
+51,recreation,2,Basketball Courts,,,negative,Basketball Courts is always packed. Need to go at 6am to get access to equipment.,2,1/27/2025
+52,study_spaces,7,Library Quiet Floor,,,negative,The chairs at Library Quiet Floor are uncomfortable for long study sessions.,2,1/24/2025
+53,recreation,4,Student Union Game Room,,,positive,I love going to Student Union Game Room after classes. Great way to destress.,4,2/21/2025
+54,services,4,Tutoring Center,,,positive,I highly recommend using Tutoring Center if you're struggling with classes.,5,3/11/2025
+55,study_spaces,1,Main Library,,,neutral,Main Library gets the job done when I need to study.,3,3/5/2025
+56,recreation,2,Basketball Courts,,,negative,Basketball Courts is always packed. Need to go at 6am to get access to equipment.,1,3/6/2025
+57,recreation,2,Basketball Courts,,,negative,Basketball Courts is always packed. Need to go at 6am to get access to equipment.,2,2/23/2025
+58,recreation,4,Student Union Game Room,,,positive,The fitness classes at Student Union Game Room are amazing and free for students!,5,1/22/2025
+59,recreation,3,Swimming Pool,,,neutral,The hours at Swimming Pool work for most students but could be longer on weekends.,3,1/18/2025
+60,recreation,2,Basketball Courts,,,positive,Basketball Courts has awesome hours. I can go early before classes.,4,1/28/2025
+61,recreation,2,Basketball Courts,,,negative,They need to extend the hours at Basketball Courts. It closes too early.,1,1/18/2025
+62,study_spaces,6,Business School Lounge,,,positive,Business School Lounge is a great place to study. It's usually quiet and I can focus.,4,2/24/2025
+63,services,2,Counseling Center,,,positive,Counseling Center has saved me numerous times this semester. Great resource!,4,3/6/2025
+64,recreation,1,Campus Gym,,,positive,The fitness classes at Campus Gym are amazing and free for students!,4,1/28/2025
+65,courses,,,1014,CS 485,positive,CS 485 has really engaging discussions and useful assignments.,5,2/22/2025
+66,study_spaces,6,Business School Lounge,,,positive,Business School Lounge is a great place to study. It's usually quiet and I can focus.,4,1/27/2025
+67,courses,,,1045,BIO 353,negative,Dr. Wilson goes too fast in BIO 353. Hard to keep up.,1,2/3/2025
+68,services,2,Counseling Center,,,positive,Counseling Center has saved me numerous times this semester. Great resource!,5,1/19/2025
+69,study_spaces,5,Arts Collaboration Space,,,positive,Arts Collaboration Space is a great place to study. It's usually quiet and I can focus.,4,2/1/2025
+70,services,1,IT Help Desk,,,positive,I highly recommend using IT Help Desk if you're struggling with classes.,5,3/3/2025
+71,courses,,,1059,CHEM 498,positive,CHEM 498 has really engaging discussions and useful assignments.,5,3/13/2025
+72,recreation,4,Student Union Game Room,,,neutral,Student Union Game Room is clean but some of the equipment needs updating.,3,1/20/2025
+73,services,1,IT Help Desk,,,neutral,IT Help Desk could improve their communication about available services.,3,2/16/2025
+74,recreation,4,Student Union Game Room,,,negative,Student Union Game Room is always packed. Need to go at 6am to get access to equipment.,2,2/15/2025
+75,services,1,IT Help Desk,,,negative,I got different answers from different people at IT Help Desk. Not consistent.,2,2/24/2025
+76,dining,1,Main Cafeteria,,,neutral,Main Cafeteria is fine if you're in a hurry and need something quick.,3,2/24/2025
+77,services,4,Tutoring Center,,,positive,The advisors at Tutoring Center really care about helping students succeed.,4,1/24/2025
+78,recreation,3,Swimming Pool,,,positive,Swimming Pool has great equipment and is usually not too crowded.,5,2/3/2025
+79,services,2,Counseling Center,,,neutral,Counseling Center services are useful but limited hours make it hard to access.,3,3/3/2025
+80,services,2,Counseling Center,,,positive,Counseling Center has saved me numerous times this semester. Great resource!,4,1/19/2025
+81,study_spaces,3,Student Union Lounge,,,positive,"I can always find a spot at Student Union Lounge, even during finals week.",4,3/8/2025
+82,services,3,Career Services,,,negative,Career Services staff seemed uninterested in helping solve my problem.,1,2/25/2025
+83,recreation,1,Campus Gym,,,positive,The fitness classes at Campus Gym are amazing and free for students!,5,2/27/2025
+84,services,1,IT Help Desk,,,positive,IT Help Desk staff was so helpful when I needed assistance with registration.,5,2/19/2025
+85,study_spaces,5,Arts Collaboration Space,,,positive,Arts Collaboration Space has the perfect atmosphere for getting work done.,5,2/24/2025
+86,courses,,,1034,ENG 350,positive,ENG 350 has really engaging discussions and useful assignments.,5,2/4/2025
+87,recreation,4,Student Union Game Room,,,positive,The staff at Student Union Game Room is super helpful with showing how to use equipment.,5,3/11/2025
+88,recreation,3,Swimming Pool,,,negative,They need to extend the hours at Swimming Pool. It closes too early.,2,1/25/2025
+89,dining,6,Library Café,,,positive,Library Café has great options for vegetarians/vegans.,4,1/13/2025
+90,dining,5,Engineering Coffee Cart,,,positive,Engineering Coffee Cart has great options for vegetarians/vegans.,5,2/5/2025
+91,study_spaces,4,Engineering Commons,,,positive,Engineering Commons has the perfect atmosphere for getting work done.,5,2/13/2025
+92,recreation,3,Swimming Pool,,,positive,The staff at Swimming Pool is super helpful with showing how to use equipment.,4,1/26/2025
+93,courses,,,1021,MATH 361,positive,MATH 361 with Dr. Williams is amazing! Clear lectures and fair grading.,5,2/4/2025
+94,services,4,Tutoring Center,,,positive,The advisors at Tutoring Center really care about helping students succeed.,4,2/4/2025
+95,recreation,2,Basketball Courts,,,positive,The fitness classes at Basketball Courts are amazing and free for students!,5,2/12/2025
+96,courses,,,1020,MATH 252,positive,The workload in MATH 252 is manageable and the content is relevant.,4,2/16/2025
+97,courses,,,1116,HIST 207,positive,Dr. Miller makes HIST 207 so interesting. Best class I've taken.,5,1/23/2025
+98,courses,,,1120,HIST 319,positive,Highly recommend HIST 319. The professor explains concepts really well.,5,2/5/2025
+99,services,4,Tutoring Center,,,positive,I highly recommend using Tutoring Center if you're struggling with classes.,4,2/7/2025
+100,recreation,1,Campus Gym,,,negative,Campus Gym is always packed. Need to go at 6am to get access to equipment.,1,2/13/2025
+101,courses,,,1120,HIST 319,negative,Avoid HIST 319 if possible. Confusing lectures and harsh grading.,2,1/28/2025
+102,recreation,1,Campus Gym,,,negative,Campus Gym is always packed. Need to go at 6am to get access to equipment.,2,3/1/2025
+103,services,3,Career Services,,,neutral,Career Services services are useful but limited hours make it hard to access.,3,3/11/2025
+104,dining,5,Engineering Coffee Cart,,,negative,Got food poisoning from Engineering Coffee Cart last week. Never going back!,1,1/15/2025
+105,services,4,Tutoring Center,,,positive,I highly recommend using Tutoring Center if you're struggling with classes.,4,1/29/2025
+106,recreation,4,Student Union Game Room,,,positive,The fitness classes at Student Union Game Room are amazing and free for students!,4,2/7/2025
+107,dining,3,The Grill,,,positive,I love the variety at The Grill. Something new every week!,4,2/25/2025
+108,recreation,2,Basketball Courts,,,positive,Basketball Courts has great equipment and is usually not too crowded.,5,2/18/2025
+109,courses,,,1040,BIO 133,positive,The workload in BIO 133 is manageable and the content is relevant.,4,3/9/2025
+110,services,3,Career Services,,,positive,Career Services has saved me numerous times this semester. Great resource!,5,1/20/2025
+111,courses,,,1021,MATH 361,positive,The workload in MATH 361 is manageable and the content is relevant.,4,1/19/2025
+112,courses,,,1002,CS 160,positive,CS 160 with Dr. Martin is amazing! Clear lectures and fair grading.,5,1/17/2025
+113,study_spaces,4,Engineering Commons,,,negative,Engineering Commons is always too crowded. Impossible to find a seat after 11am.,1,1/22/2025
+114,dining,4,Sushi Spot,,,negative,The service at Sushi Spot is so slow. Avoid if you're in a hurry.,2,2/10/2025
+115,dining,3,The Grill,,,positive,The Grill has the best food on campus. Try the special on Wednesdays!,4,2/18/2025
+116,courses,,,1122,HIST 419,positive,Dr. Taylor makes HIST 419 so interesting. Best class I've taken.,4,1/23/2025
+117,courses,,,1109,ART 486,negative,Dr. Brown goes too fast in ART 486. Hard to keep up.,1,2/14/2025
+118,recreation,3,Swimming Pool,,,negative,Swimming Pool is always packed. Need to go at 6am to get access to equipment.,2,3/6/2025
+119,services,1,IT Help Desk,,,positive,IT Help Desk staff was so helpful when I needed assistance with registration.,5,2/10/2025
+120,courses,,,1031,ENG 218,positive,Dr. Martin makes ENG 218 so interesting. Best class I've taken.,4,3/9/2025
+121,services,2,Counseling Center,,,negative,Counseling Center hours don't work for students with late classes.,1,2/20/2025
+122,courses,,,1019,MATH 216,neutral,MATH 216 covers important material but the textbook is confusing.,3,2/26/2025
+123,recreation,4,Student Union Game Room,,,negative,They need to extend the hours at Student Union Game Room. It closes too early.,2,1/17/2025
+124,study_spaces,3,Student Union Lounge,,,neutral,"I studied at Student Union Lounge yesterday. It was average - not too quiet, not too loud.",3,1/23/2025
+125,dining,6,Library Café,,,negative,Got food poisoning from Library Café last week. Never going back!,2,3/13/2025
+126,study_spaces,7,Library Quiet Floor,,,neutral,Library Quiet Floor gets the job done when I need to study.,3,3/1/2025
+127,services,1,IT Help Desk,,,negative,Tried to get help from IT Help Desk but gave up after waiting 30 minutes.,1,2/6/2025
+128,dining,1,Main Cafeteria,,,positive,I eat at Main Cafeteria almost every day. Great value and quick service.,5,1/27/2025
+129,recreation,2,Basketball Courts,,,positive,The staff at Basketball Courts is super helpful with showing how to use equipment.,5,2/7/2025
+130,courses,,,1101,ART 122,neutral,ART 122 covers important material but the textbook is confusing.,3,2/10/2025
+131,dining,3,The Grill,,,positive,The staff at The Grill is super friendly and the food is delicious.,5,2/4/2025
+132,dining,2,Science Hall Café,,,positive,I eat at Science Hall Café almost every day. Great value and quick service.,5,1/13/2025
+133,recreation,2,Basketball Courts,,,positive,The fitness classes at Basketball Courts are amazing and free for students!,4,1/17/2025
+134,recreation,3,Swimming Pool,,,negative,They need to extend the hours at Swimming Pool. It closes too early.,1,1/19/2025
+135,services,1,IT Help Desk,,,negative,Tried to get help from IT Help Desk but gave up after waiting 30 minutes.,1,2/12/2025
+136,services,5,Health Clinic,,,neutral,Health Clinic services are useful but limited hours make it hard to access.,3,1/16/2025
+137,study_spaces,1,Main Library,,,positive,I love Main Library! Always plenty of outlets and comfortable seating.,5,3/4/2025
+138,recreation,2,Basketball Courts,,,neutral,Basketball Courts could use more equipment but it's generally good.,3,2/14/2025
+139,recreation,3,Swimming Pool,,,positive,Swimming Pool has awesome hours. I can go early before classes.,4,3/1/2025
+140,dining,6,Library Café,,,positive,I eat at Library Café almost every day. Great value and quick service.,5,2/24/2025
+141,dining,1,Main Cafeteria,,,neutral,Main Cafeteria is fine if you're in a hurry and need something quick.,3,1/24/2025
+142,study_spaces,2,Science Study Room,,,positive,The WiFi at Science Study Room is super fast and reliable.,5,2/16/2025
+143,study_spaces,2,Science Study Room,,,positive,Science Study Room is a great place to study. It's usually quiet and I can focus.,4,3/8/2025
+144,recreation,1,Campus Gym,,,neutral,The hours at Campus Gym work for most students but could be longer on weekends.,3,3/3/2025
+145,study_spaces,3,Student Union Lounge,,,positive,Student Union Lounge is a great place to study. It's usually quiet and I can focus.,5,2/15/2025
+146,recreation,2,Basketball Courts,,,positive,The staff at Basketball Courts is super helpful with showing how to use equipment.,4,3/1/2025
+147,study_spaces,8,Computer Lab,,,positive,"I can always find a spot at Computer Lab, even during finals week.",4,1/22/2025
+148,study_spaces,2,Science Study Room,,,neutral,Science Study Room gets the job done when I need to study.,3,2/9/2025
+149,recreation,4,Student Union Game Room,,,neutral,Student Union Game Room could use more equipment but it's generally good.,3,1/26/2025
+150,services,5,Health Clinic,,,neutral,Health Clinic could improve their communication about available services.,3,2/9/2025
+151,recreation,4,Student Union Game Room,,,positive,Student Union Game Room has great equipment and is usually not too crowded.,4,2/12/2025
+152,services,3,Career Services,,,positive,The advisors at Career Services really care about helping students succeed.,5,2/5/2025
+153,study_spaces,8,Computer Lab,,,positive,"I can always find a spot at Computer Lab, even during finals week.",4,2/1/2025
+154,dining,3,The Grill,,,neutral,The Grill is fine if you're in a hurry and need something quick.,3,2/1/2025
+155,recreation,1,Campus Gym,,,negative,The equipment at Campus Gym is constantly broken or under maintenance.,1,2/5/2025
+156,recreation,4,Student Union Game Room,,,negative,Student Union Game Room is always packed. Need to go at 6am to get access to equipment.,2,3/5/2025
+157,courses,,,1107,ART 331,neutral,ART 331 is okay. Dr. White is knowledgeable but lectures can be dry.,3,2/6/2025
+158,services,5,Health Clinic,,,neutral,My experience with Health Clinic was okay. They answered my questions but took a while.,3,3/5/2025
+159,recreation,4,Student Union Game Room,,,neutral,The hours at Student Union Game Room work for most students but could be longer on weekends.,3,1/29/2025
+160,services,1,IT Help Desk,,,neutral,The staff at IT Help Desk is knowledgeable but sometimes seems rushed.,3,2/21/2025
+161,recreation,1,Campus Gym,,,positive,Campus Gym has great equipment and is usually not too crowded.,5,1/24/2025
+162,dining,5,Engineering Coffee Cart,,,positive,I eat at Engineering Coffee Cart almost every day. Great value and quick service.,4,1/27/2025
+163,services,2,Counseling Center,,,negative,Tried to get help from Counseling Center but gave up after waiting 30 minutes.,2,2/6/2025
+164,dining,3,The Grill,,,positive,The Grill has the best food on campus. Try the special on Wednesdays!,5,3/2/2025
+165,recreation,3,Swimming Pool,,,positive,Swimming Pool has great equipment and is usually not too crowded.,5,2/6/2025
+166,recreation,1,Campus Gym,,,positive,Campus Gym has awesome hours. I can go early before classes.,5,1/18/2025
+167,study_spaces,2,Science Study Room,,,positive,"I can always find a spot at Science Study Room, even during finals week.",5,2/15/2025
+168,services,1,IT Help Desk,,,positive,The online appointment system for IT Help Desk makes it easy to get help.,5,2/5/2025
+169,services,2,Counseling Center,,,positive,The advisors at Counseling Center really care about helping students succeed.,5,1/16/2025
+170,recreation,3,Swimming Pool,,,positive,The fitness classes at Swimming Pool are amazing and free for students!,4,2/6/2025
+171,recreation,1,Campus Gym,,,negative,They need to extend the hours at Campus Gym. It closes too early.,1,3/6/2025
+172,study_spaces,5,Arts Collaboration Space,,,positive,Arts Collaboration Space has the perfect atmosphere for getting work done.,5,3/10/2025
+173,courses,,,1074,PHYS 412,neutral,PHYS 412 assignments are reasonable but exams are challenging.,3,2/8/2025
+174,recreation,4,Student Union Game Room,,,positive,Student Union Game Room has awesome hours. I can go early before classes.,5,2/16/2025
+175,dining,5,Engineering Coffee Cart,,,negative,The service at Engineering Coffee Cart is so slow. Avoid if you're in a hurry.,1,1/23/2025
+176,recreation,1,Campus Gym,,,neutral,"Spent an hour at Campus Gym yesterday. It was okay, a bit crowded.",3,2/16/2025
+177,recreation,1,Campus Gym,,,neutral,Campus Gym could use more equipment but it's generally good.,3,2/17/2025
+178,dining,3,The Grill,,,positive,The staff at The Grill is super friendly and the food is delicious.,4,3/1/2025
+179,recreation,4,Student Union Game Room,,,positive,The staff at Student Union Game Room is super helpful with showing how to use equipment.,4,1/30/2025
+180,study_spaces,6,Business School Lounge,,,negative,Avoid Business School Lounge on Tuesdays and Thursdays. Way too noisy.,1,1/16/2025
+181,study_spaces,2,Science Study Room,,,neutral,Science Study Room is okay. Sometimes it gets crowded but usually manageable.,3,1/23/2025
+182,services,1,IT Help Desk,,,positive,IT Help Desk has saved me numerous times this semester. Great resource!,5,1/17/2025
+183,study_spaces,3,Student Union Lounge,,,negative,The noise level at Student Union Lounge makes it hard to concentrate.,2,2/27/2025
+184,services,5,Health Clinic,,,negative,Health Clinic staff seemed uninterested in helping solve my problem.,2,2/28/2025
+185,services,3,Career Services,,,positive,I highly recommend using Career Services if you're struggling with classes.,5,3/6/2025
+186,services,1,IT Help Desk,,,positive,IT Help Desk staff was so helpful when I needed assistance with registration.,4,1/25/2025
+187,services,4,Tutoring Center,,,positive,The advisors at Tutoring Center really care about helping students succeed.,4,3/8/2025
+188,recreation,4,Student Union Game Room,,,negative,They need to extend the hours at Student Union Game Room. It closes too early.,2,2/16/2025
+189,study_spaces,5,Arts Collaboration Space,,,positive,Arts Collaboration Space is a great place to study. It's usually quiet and I can focus.,4,2/24/2025
+190,dining,4,Sushi Spot,,,negative,The service at Sushi Spot is so slow. Avoid if you're in a hurry.,1,1/22/2025
+191,courses,,,1007,CS 284,positive,Dr. White makes CS 284 so interesting. Best class I've taken.,4,1/30/2025
+192,dining,5,Engineering Coffee Cart,,,negative,Engineering Coffee Cart is overpriced for the quality of food they serve.,2,3/6/2025
+193,recreation,1,Campus Gym,,,positive,The staff at Campus Gym is super helpful with showing how to use equipment.,4,2/3/2025
+194,courses,,,1119,HIST 358,negative,The exams in HIST 358 don't reflect what's taught in class.,2,2/20/2025
+195,study_spaces,4,Engineering Commons,,,negative,The chairs at Engineering Commons are uncomfortable for long study sessions.,2,2/14/2025
+196,recreation,3,Swimming Pool,,,positive,The fitness classes at Swimming Pool are amazing and free for students!,5,2/18/2025
+197,recreation,3,Swimming Pool,,,positive,The staff at Swimming Pool is super helpful with showing how to use equipment.,4,2/20/2025
+198,courses,,,1097,PSYCH 468,positive,The workload in PSYCH 468 is manageable and the content is relevant.,4,3/1/2025
+199,dining,6,Library Café,,,negative,Got food poisoning from Library Café last week. Never going back!,1,2/8/2025
+200,study_spaces,5,Arts Collaboration Space,,,positive,Arts Collaboration Space is a great place to study. It's usually quiet and I can focus.,5,3/11/2025
+201,recreation,3,Swimming Pool,,,neutral,"Spent an hour at Swimming Pool yesterday. It was okay, a bit crowded.",3,1/24/2025
+202,courses,,,1007,CS 284,positive,Highly recommend CS 284. The professor explains concepts really well.,5,1/28/2025
+203,services,3,Career Services,,,positive,The online appointment system for Career Services makes it easy to get help.,4,3/10/2025
+204,dining,2,Science Hall Café,,,negative,Science Hall Café often runs out of popular items by mid-afternoon.,2,2/22/2025
+205,dining,1,Main Cafeteria,,,negative,The lines at Main Cafeteria during lunch hour are ridiculous.,2,3/9/2025
+206,study_spaces,2,Science Study Room,,,positive,The WiFi at Science Study Room is super fast and reliable.,4,2/1/2025
+207,recreation,3,Swimming Pool,,,positive,The staff at Swimming Pool is super helpful with showing how to use equipment.,4,2/21/2025
+208,recreation,3,Swimming Pool,,,neutral,Swimming Pool is clean but some of the equipment needs updating.,3,1/13/2025
+209,dining,5,Engineering Coffee Cart,,,negative,The service at Engineering Coffee Cart is so slow. Avoid if you're in a hurry.,2,2/19/2025
+210,recreation,4,Student Union Game Room,,,positive,The fitness classes at Student Union Game Room are amazing and free for students!,5,2/13/2025
+211,study_spaces,8,Computer Lab,,,positive,"I can always find a spot at Computer Lab, even during finals week.",4,1/27/2025
+212,courses,,,1006,CS 227,positive,Dr. Moore makes CS 227 so interesting. Best class I've taken.,4,2/5/2025
+213,courses,,,1012,CS 384,positive,CS 384 has really engaging discussions and useful assignments.,5,2/6/2025
+214,services,2,Counseling Center,,,neutral,The staff at Counseling Center is knowledgeable but sometimes seems rushed.,3,3/11/2025
+215,dining,5,Engineering Coffee Cart,,,negative,The service at Engineering Coffee Cart is so slow. Avoid if you're in a hurry.,1,2/19/2025
+216,services,5,Health Clinic,,,positive,Health Clinic staff was so helpful when I needed assistance with registration.,4,1/16/2025
+217,study_spaces,6,Business School Lounge,,,positive,The WiFi at Business School Lounge is super fast and reliable.,5,1/16/2025
+218,services,3,Career Services,,,positive,Career Services has saved me numerous times this semester. Great resource!,4,2/20/2025
+219,recreation,2,Basketball Courts,,,negative,They need to extend the hours at Basketball Courts. It closes too early.,1,2/6/2025
+220,study_spaces,7,Library Quiet Floor,,,negative,The noise level at Library Quiet Floor makes it hard to concentrate.,2,1/23/2025
+221,services,3,Career Services,,,neutral,Career Services services are useful but limited hours make it hard to access.,3,2/28/2025
+222,study_spaces,3,Student Union Lounge,,,positive,"I can always find a spot at Student Union Lounge, even during finals week.",5,2/3/2025
+223,services,1,IT Help Desk,,,positive,IT Help Desk has saved me numerous times this semester. Great resource!,4,1/18/2025
+224,dining,3,The Grill,,,neutral,The Grill has okay food. Nothing special but does the job when I'm hungry.,3,3/5/2025
+225,study_spaces,2,Science Study Room,,,negative,Science Study Room is always too crowded. Impossible to find a seat after 11am.,2,2/25/2025
+226,recreation,3,Swimming Pool,,,neutral,Swimming Pool is clean but some of the equipment needs updating.,3,2/5/2025
+227,study_spaces,1,Main Library,,,positive,Main Library has the perfect atmosphere for getting work done.,4,2/6/2025
+228,study_spaces,2,Science Study Room,,,positive,Science Study Room has the perfect atmosphere for getting work done.,4,3/8/2025
+229,dining,6,Library Café,,,neutral,Library Café is convenient but prices are a bit high.,3,2/25/2025
+230,dining,5,Engineering Coffee Cart,,,negative,The lines at Engineering Coffee Cart during lunch hour are ridiculous.,2,3/1/2025
+231,recreation,3,Swimming Pool,,,negative,Swimming Pool is always packed. Need to go at 6am to get access to equipment.,2,1/24/2025
+232,services,1,IT Help Desk,,,negative,Tried to get help from IT Help Desk but gave up after waiting 30 minutes.,2,3/11/2025
+233,recreation,4,Student Union Game Room,,,neutral,The hours at Student Union Game Room work for most students but could be longer on weekends.,3,2/24/2025
+234,study_spaces,4,Engineering Commons,,,positive,Engineering Commons has the perfect atmosphere for getting work done.,5,2/2/2025
+235,dining,2,Science Hall Café,,,neutral,The menu at Science Hall Café could use more variety but it's not bad.,3,1/18/2025
+236,recreation,1,Campus Gym,,,positive,The staff at Campus Gym is super helpful with showing how to use equipment.,4,3/8/2025
+237,study_spaces,3,Student Union Lounge,,,negative,The chairs at Student Union Lounge are uncomfortable for long study sessions.,1,3/13/2025
+238,courses,,,1115,HIST 289,positive,HIST 289 has really engaging discussions and useful assignments.,5,1/25/2025
+239,courses,,,1037,ENG 486,negative,The workload in ENG 486 is unreasonable for a 486-level course.,2,1/30/2025
+240,study_spaces,4,Engineering Commons,,,positive,"I can always find a spot at Engineering Commons, even during finals week.",5,2/19/2025
+241,courses,,,1033,ENG 334,positive,Dr. Davis makes ENG 334 so interesting. Best class I've taken.,5,1/23/2025
+242,courses,,,1120,HIST 319,neutral,Dr. Harris for HIST 319 is fair but not the most engaging.,3,2/9/2025
+243,study_spaces,5,Arts Collaboration Space,,,positive,Arts Collaboration Space has the perfect atmosphere for getting work done.,4,3/9/2025
+244,recreation,1,Campus Gym,,,neutral,Campus Gym is clean but some of the equipment needs updating.,3,1/16/2025
+245,recreation,2,Basketball Courts,,,positive,The staff at Basketball Courts is super helpful with showing how to use equipment.,5,2/9/2025
+246,dining,3,The Grill,,,positive,I love the variety at The Grill. Something new every week!,5,1/14/2025
+247,recreation,4,Student Union Game Room,,,negative,They need to extend the hours at Student Union Game Room. It closes too early.,1,1/19/2025
+248,recreation,2,Basketball Courts,,,positive,I love going to Basketball Courts after classes. Great way to destress.,4,2/1/2025
+249,dining,2,Science Hall Café,,,positive,Science Hall Café has the best food on campus. Try the special on Wednesdays!,5,3/12/2025
+250,dining,6,Library Café,,,positive,Library Café has the best food on campus. Try the special on Wednesdays!,5,3/9/2025
+251,dining,1,Main Cafeteria,,,positive,The staff at Main Cafeteria is super friendly and the food is delicious.,5,1/24/2025
+252,courses,,,1045,BIO 353,neutral,BIO 353 is okay. Dr. Wilson is knowledgeable but lectures can be dry.,3,2/7/2025
+253,dining,2,Science Hall Café,,,positive,I eat at Science Hall Café almost every day. Great value and quick service.,4,1/30/2025
+254,courses,,,1114,HIST 162,positive,The workload in HIST 162 is manageable and the content is relevant.,4,2/15/2025
+255,recreation,4,Student Union Game Room,,,positive,The staff at Student Union Game Room is super helpful with showing how to use equipment.,5,1/26/2025
+256,services,3,Career Services,,,positive,Career Services has saved me numerous times this semester. Great resource!,4,3/4/2025
+257,study_spaces,6,Business School Lounge,,,neutral,Business School Lounge is okay. Sometimes it gets crowded but usually manageable.,3,1/14/2025
+258,recreation,2,Basketball Courts,,,positive,The fitness classes at Basketball Courts are amazing and free for students!,4,3/10/2025
+259,courses,,,1005,CS 281,positive,CS 281 has really engaging discussions and useful assignments.,4,2/27/2025
+260,courses,,,1058,CHEM 354,negative,CHEM 354 has unclear expectations and unhelpful feedback.,2,2/8/2025
+261,study_spaces,1,Main Library,,,positive,Main Library is a great place to study. It's usually quiet and I can focus.,5,1/28/2025
+262,study_spaces,3,Student Union Lounge,,,positive,Student Union Lounge is a great place to study. It's usually quiet and I can focus.,5,3/4/2025
+263,study_spaces,2,Science Study Room,,,negative,Science Study Room is always too crowded. Impossible to find a seat after 11am.,2,3/4/2025
+264,courses,,,1078,BUS 138,positive,The workload in BUS 138 is manageable and the content is relevant.,4,1/14/2025
+265,study_spaces,7,Library Quiet Floor,,,positive,"I can always find a spot at Library Quiet Floor, even during finals week.",4,2/13/2025
+266,study_spaces,3,Student Union Lounge,,,positive,"I can always find a spot at Student Union Lounge, even during finals week.",4,2/25/2025
+267,study_spaces,2,Science Study Room,,,neutral,Science Study Room serves its purpose but nothing special.,3,1/28/2025
+268,study_spaces,7,Library Quiet Floor,,,negative,Avoid Library Quiet Floor on Tuesdays and Thursdays. Way too noisy.,2,1/26/2025
+269,study_spaces,5,Arts Collaboration Space,,,positive,Arts Collaboration Space has the perfect atmosphere for getting work done.,5,1/25/2025
+270,courses,,,1097,PSYCH 468,positive,Highly recommend PSYCH 468. The professor explains concepts really well.,4,2/9/2025
+271,dining,2,Science Hall Café,,,positive,I eat at Science Hall Café almost every day. Great value and quick service.,4,2/4/2025
+272,courses,,,1028,ENG 120,positive,ENG 120 has really engaging discussions and useful assignments.,5,1/17/2025
+273,courses,,,1029,ENG 190,neutral,Taking ENG 190 this semester. Content is interesting but heavy workload.,3,1/27/2025
+274,courses,,,1104,ART 215,neutral,ART 215 is okay. Dr. Davis is knowledgeable but lectures can be dry.,3,3/8/2025
+275,courses,,,1052,CHEM 167,positive,The workload in CHEM 167 is manageable and the content is relevant.,4,2/14/2025
+276,services,3,Career Services,,,neutral,Career Services could improve their communication about available services.,3,3/12/2025
+277,services,3,Career Services,,,negative,I got different answers from different people at Career Services. Not consistent.,2,2/4/2025
+278,recreation,3,Swimming Pool,,,positive,The fitness classes at Swimming Pool are amazing and free for students!,5,2/27/2025
+279,dining,6,Library Café,,,negative,Got food poisoning from Library Café last week. Never going back!,1,1/15/2025
+280,services,5,Health Clinic,,,positive,Health Clinic has saved me numerous times this semester. Great resource!,5,1/19/2025
+281,recreation,1,Campus Gym,,,positive,The staff at Campus Gym is super helpful with showing how to use equipment.,5,2/28/2025
+282,dining,6,Library Café,,,positive,I love the variety at Library Café. Something new every week!,4,1/25/2025
+283,services,4,Tutoring Center,,,neutral,Tutoring Center could improve their communication about available services.,3,1/23/2025
+284,courses,,,1039,ENG 483,negative,The workload in ENG 483 is unreasonable for a 483-level course.,2,2/7/2025
+285,services,4,Tutoring Center,,,positive,The advisors at Tutoring Center really care about helping students succeed.,5,2/15/2025
+286,dining,5,Engineering Coffee Cart,,,positive,I love the variety at Engineering Coffee Cart. Something new every week!,5,1/15/2025
+287,study_spaces,6,Business School Lounge,,,negative,The chairs at Business School Lounge are uncomfortable for long study sessions.,2,2/6/2025
+288,dining,2,Science Hall Café,,,positive,Science Hall Café has the best food on campus. Try the special on Wednesdays!,4,1/24/2025
+289,services,3,Career Services,,,positive,I highly recommend using Career Services if you're struggling with classes.,4,2/7/2025
+290,study_spaces,2,Science Study Room,,,negative,Science Study Room is always too crowded. Impossible to find a seat after 11am.,1,3/2/2025
+291,courses,,,1059,CHEM 498,positive,CHEM 498 with Dr. Thomas is amazing! Clear lectures and fair grading.,4,2/13/2025
+292,services,4,Tutoring Center,,,positive,I highly recommend using Tutoring Center if you're struggling with classes.,4,2/25/2025
+293,services,4,Tutoring Center,,,neutral,My experience with Tutoring Center was okay. They answered my questions but took a while.,3,2/12/2025
+294,study_spaces,6,Business School Lounge,,,positive,Business School Lounge has the perfect atmosphere for getting work done.,5,2/10/2025
+295,courses,,,1064,PHYS 143,positive,The workload in PHYS 143 is manageable and the content is relevant.,5,1/22/2025
+296,dining,4,Sushi Spot,,,positive,The staff at Sushi Spot is super friendly and the food is delicious.,4,2/28/2025
+297,courses,,,1059,CHEM 498,positive,The workload in CHEM 498 is manageable and the content is relevant.,5,2/18/2025
+298,courses,,,1083,BUS 370,positive,BUS 370 with Dr. Smith is amazing! Clear lectures and fair grading.,4,2/9/2025
+299,courses,,,1083,BUS 370,neutral,BUS 370 assignments are reasonable but exams are challenging.,3,3/13/2025
+300,services,3,Career Services,,,positive,I highly recommend using Career Services if you're struggling with classes.,4,1/19/2025

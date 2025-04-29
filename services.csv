@@ -1,0 +1,6 @@
+id,name,building,floor,type,hours,services,appointment_required,subjects,wait_time_morning,wait_time_afternoon,wait_time_evening
+1,IT Help Desk,Technology Center,1,tech_support,8:00-18:00,,,,5,12,8
+2,Counseling Center,Health Center,2,counseling,9:00-17:00,"individual,group,crisis",TRUE,,,,
+3,Career Services,Student Union,2,career,9:00-16:00,"resume,interview,job_search",TRUE,,,,
+4,Tutoring Center,Library,2,tutoring,10:00-20:00,,FALSE,"math,science,writing,languages",,,
+5,Health Clinic,Health Center,1,health,8:00-17:00,"general,vaccines,prescriptions",TRUE,,,,

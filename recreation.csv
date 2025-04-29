@@ -1,0 +1,14 @@
+id,name,building,floor,type,hours,avg_occupancy_weekday
+1,Campus Gym,Recreation Center,1,gym,6:00-22:00,"10,25,40,30,25,30,45,60,70,75,70,65,70,75,65,50"
+2,Basketball Courts,Recreation Center,2,courts,8:00-21:00,"5,15,25,35,45,55,65,70,60,50,40,30,20"
+3,Swimming Pool,Recreation Center,1,pool,7:00-20:00,"20,30,25,20,30,45,55,50,45,40,35,30,25"
+4,Student Union Game Room,Student Union,3,game_room,10:00-22:00,"5,15,25,35,45,55,65,75,70,60,45,30"
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,"Note: in col ""avg_occupancy_weekday"", the first value represents the occupancy percentage at open hour. Each subsequent value represents the occupancy precentage at next hours.  ",,,,
